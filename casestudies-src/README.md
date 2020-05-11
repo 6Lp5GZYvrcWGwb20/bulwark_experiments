@@ -1,4 +1,4 @@
-# Casestudies
+# Case studies
 
 ## OAuth 2.0
 
